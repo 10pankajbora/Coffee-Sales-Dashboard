@@ -4,7 +4,8 @@ This project is a comprehensive analysis of a coffee shop's sales data, culminat
 📊 Interactive Dashboard
 The final output is a live, interactive dashboard that allows for a deep dive into the coffee shop's performance.
 
-[➡️ Click here to view the Live Interactive Dashboard on Tableau Public]("https://github.com/10pankajbora/Coffee-Sales-Dashboard/blob/main/Coffee_dashboard.png")
+[➡️ Click here to view the Live Interactive Dashboard on Tableau Public](https://github.com/10pankajbora/Coffee-Sales-Dashboard/blob/main/Coffee_dashboard.png)
+
 🎯 Project Goal
 The primary objective was to analyze transactional sales data to answer key business questions:
 
